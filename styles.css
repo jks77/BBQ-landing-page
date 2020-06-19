@@ -118,7 +118,7 @@ input {
 
 .intro-text-top {
 	border-top: 8px solid;
-	border-image-source: linear-gradient(to left, #ff713b, #ffa51d) 1;
+	border-image: linear-gradient(to left, #ff713b, #ffa51d) 1;
 	padding: .2px 0;
 	margin-top: 0;
 }
